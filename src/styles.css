@@ -1,0 +1,16 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+input {
+  padding: 2%;
+  min-width: 80%;
+  font-size: 1.5rem;
+}
+
+.sticker {
+  cursor: pointer;
+  padding: 1%;
+  font-size: 2rem;
+  padding-top: 2rem;
+}
